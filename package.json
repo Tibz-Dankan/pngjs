@@ -17,5 +17,9 @@
     "url": "https://github.com/Tibz-Dankan/pngjs/issues"
   },
   "homepage": "https://github.com/Tibz-Dankan/pngjs#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "pngjs": "^7.0.0"
+  }
 }
